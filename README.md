@@ -1,7 +1,7 @@
 <a><img src="assets/img/nogood/stickers/NG_TABConf_FullColor_OffWhite.png"></a>
 
 A Technical Bitcoin Conference
-[Checkout the website for more info](https://2023.tabconf.com/)
+[Checkout the website for more info](https://6.tabconf.com/)
 
 ----
 
