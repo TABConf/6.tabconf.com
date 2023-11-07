@@ -4,7 +4,7 @@ layout: default
 
 # Capture the Bitcoin Challenge (CTB)
 
-TABConf 2023 is bringing back the CTB challenge for its third year! This scavenger hunt will test your knowledge of Bitcoin and challenge you to think creatively.
+TABConf 6 is bringing back the CTB challenge for its third year! This scavenger hunt will test your knowledge of Bitcoin and challenge you to think creatively.
 
 Join in on the fun and make new friends while learning something new. The goal is to be the first to snatch the bitcoin from a specific UTXO.
 

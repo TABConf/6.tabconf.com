@@ -4,7 +4,7 @@ layout: default
 
 # Sponsors
 
-Want to help us make the event possible, and get in front of the Bitcoin developer community? Read the [sponsor sheet](https://github.com/TABConf/2023.tabconf.com/blob/main/docs/sponsorsheet.md) and reach out to <hello@tabconf.com>.
+Want to help us make the event possible, and get in front of the Bitcoin developer community? Read the [sponsor sheet](https://github.com/TABConf/6.tabconf.com/blob/main/docs/sponsorsheet.md) and reach out to <hello@tabconf.com>.
 
 ## Main Stage Sponsor [🐦](https://twitter.com/voltage_cloud) [🌐](https://voltage.cloud/)
 

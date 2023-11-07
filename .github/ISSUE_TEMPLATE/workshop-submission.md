@@ -1,6 +1,6 @@
 ---
 name: Workshop Submission
-about: Submit your workshop idea for TABConf 2023!
+about: Submit your workshop idea for TABConf!
 title: ''
 labels: 'Workshop'
 assignees: ''

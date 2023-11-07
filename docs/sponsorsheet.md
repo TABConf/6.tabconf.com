@@ -1,7 +1,7 @@
-# TABConf 2023 Sponsorsheet
+# TABConf 6 Sponsorsheet
 #### TABConf has sponsorship opportunities for forward-thinking Bitcoin companies (that’s you)
 
-## TABConf 2023 Title Sponsor - 25k (1/2 left)
+## TABConf 6 Title Sponsor - 25k (1/2 left)
 - Branding on the Main stage and throughout the conference hall. 
 - Logo on website (home page & sponsors page). 
 - 10 Sponsor Tickets.

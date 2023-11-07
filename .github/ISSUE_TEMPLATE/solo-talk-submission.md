@@ -1,6 +1,6 @@
 ---
 name: Solo Talk Submission
-about: Submit your talk idea for TABConf 2023!
+about: Submit your talk idea for TABConf!
 title: ''
 labels: 'Talk'
 assignees: ''

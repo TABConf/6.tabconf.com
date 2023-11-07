@@ -22,5 +22,5 @@ NextGen Village is a fun interactive space for bitcoiners of all ages. Meet othe
 
 ## Community call
 
-Are you bringing your kids? Do you have ideas for activities, games, panels or talks? [Submit your ideas](https://github.com/TABConf/2023.tabconf.com/issues/new)!
+Are you bringing your kids? Do you have ideas for activities, games, panels or talks? [Submit your ideas](https://github.com/TABConf/6.tabconf.com/issues/new)!
 

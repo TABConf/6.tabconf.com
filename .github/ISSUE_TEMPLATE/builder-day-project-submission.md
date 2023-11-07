@@ -1,6 +1,6 @@
 ---
 name: Builder Day Project Submission
-about: Submit your Builder Day Project for TABConf 2023!
+about: Submit your Builder Day Project for TABConf!
 title: ''
 labels: 'Builder Day Project'
 assignees: ''

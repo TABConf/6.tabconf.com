@@ -19,21 +19,10 @@ Builder Days is our version of a laid back co working and a hackathon. Its purpo
 - How to contribute for the first time to the project
 - Above all else, Builder Days attendees can get all of their questions answered about their favorite projects straight from the source!
 
-If you want to run a Builder Days table for your FOSS Bitcoin project, you can [open a GitHub issue!](https://github.com/TABConf/2023.tabconf.com/issues/new?assignees=&labels=Builder+Day+Project&template=builder-day-project-submission.md&title=)!
+If you want to run a Builder Days table for your FOSS Bitcoin project, you can [open a GitHub issue!](https://github.com/TABConf/6.tabconf.com/issues/new?assignees=&labels=Builder+Day+Project&template=builder-day-project-submission.md&title=)!
 
 ## Builder Days Sponsor
 
-<a href="https://wolfnyc.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png"></a>
-
-## Projects we had in 2022:
-
-- Bitcoin Dev Kit (BDK)
-- Lightning Dev Kit (LDK)
-- FediMint
-- Core Lightning
-- Bitcoin Design
-- Hands-On Simplicity
-- Lily Wallet
-- SuredBits
+Contact us, hello@tabconf.com
 
 <img align="center" width="350" src="assets/img/nogood/512x512/NG_Stickers_BuildingBuilders_Color.png">

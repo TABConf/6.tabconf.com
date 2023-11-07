@@ -1,6 +1,6 @@
 ---
 name: Panel Discussion Submission
-about: Submit your panel discussion idea for TABConf 2023!
+about: Submit your panel discussion idea for TABConf!
 title: ''
 labels: 'Panel'
 assignees: ''
