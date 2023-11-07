@@ -42,18 +42,42 @@ TBD
 
 *** 
 
-```sh
-  # Script
-  <'TABConf 6'> <'grassroots, inclusive'> OP_CAT
-  <'bitcoiners, developers, '> OP_CAT
-  <'researchers, entrepreneurs, students, curious people'> OP_CAT
-  <'bitcoin, workshops, talks, villages, hacker space'> OP_CAT
-  <'Oct 23rd - 9th, 2024'> OP_CAT
-  <'Atlanta, GA USA'> OP_CAT
-  <'Building Builders'> OP_CAT
-  <'Buy Your Ticket'> OP_CAT
-  OP_HASH160
-  <0x1867386612b8d16e704c1dc8dcf7e43fcd20871a> OP_EQUAL
-  <2022> OP_ADD
-  <6> OP_EQUAL
+```bash
+OP_HASH160
+OP_SWAP
+OP_DEPTH
+OP_1SUB
+OP_ROLL
+OP_HASH160
+OP_DEPTH
+OP_1SUB
+OP_ROLL
+OP_HASH160
+OP_DEPTH
+OP_1SUB
+OP_ROLL
+OP_HASH160
+OP_DEPTH
+OP_1SUB
+OP_1SUB
+OP_ROLL
+<"Bitcoin">
+OP_HASH160
+OP_OVER
+OP_EQUAL
+OP_SWAP
+OP_SHA256
+<0xc39282bb84e0f957b32efeed42d8c1253b8e6e8cb789588352da0c4e71eb1a0b>
+OP_EQUAL
+OP_2DROP
+<0x601fcfdb42ab8b01b5c4c7754f697ced75b3feb3>
+OP_EQUALVERIFY
+<0xd5cf6761933059500ac3cba38c5323cec4fe036c>
+OP_EQUALVERIFY
+<0x94e6136ae62aae8fe2b785ffdad97963b56a4be4>
+OP_EQUAL
+OP_SWAP
+<0x71bbb30368c08050ebde2caec9411bc7fb63776a>
+OP_EQUAL
+OP_SWAP
 ```
