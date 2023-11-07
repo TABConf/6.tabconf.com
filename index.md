@@ -13,16 +13,16 @@ Read about our [history](./history.md) at TABConf.
 
 # TABConf 6 Schedule
 Done through github issues.
-
+- TBD
 *** 
 
 # 4 Days of Building & Learning 🏗️
 
-## Builder Days & Workshops 🔨  💻 - September 6th/7th
+## Builder Days & Workshops 🔨  💻 - TBD
   
 [Builder Days & Workshops](./builderdays.md)
 
-## Villages & Main Stage 🏘️ - September 8th/9th
+## Villages & Main Stage 🏘️ 
 
 [Main Stage](https://github.com/orgs/TABConf/projects/1/views/6)
 
@@ -48,7 +48,7 @@ TBD
   <'bitcoiners, developers, '> OP_CAT
   <'researchers, entrepreneurs, students, curious people'> OP_CAT
   <'bitcoin, workshops, talks, villages, hacker space'> OP_CAT
-  <'September Oct 23rd - 9th, 2024'> OP_CAT
+  <'Oct 23rd - 9th, 2024'> OP_CAT
   <'Atlanta, GA USA'> OP_CAT
   <'Building Builders'> OP_CAT
   <'Buy Your Ticket'> OP_CAT
