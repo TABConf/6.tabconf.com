@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Hotel
+
 TAB Conf 6 will be hosted at a new venue in 2024. Below is a list of hotels within 2 mi of the new venue.
 
 - [Crowne Plaza Atlanta - Midtown](https://www.ihg.com/crowneplaza/hotels/us/en/atlanta/atlpw/hoteldetail) 0.8 mi

@@ -43,6 +43,13 @@ TBD
 *** 
 
 ```bash
+# stack data
+<"halfinney">
+<"hodl">
+<"buildingbuilders">
+<"weareallrubin">
+<"tabconf4lyfe">
+# witness script
 OP_HASH160
 OP_SWAP
 OP_DEPTH
