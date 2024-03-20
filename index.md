@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Mission & Vision
+# Mission
 
-Brining protocol developers and builders together to build the future on Bitcoin. 
+### Brining protocol developers and builders together to build the future on Bitcoin. 
 
-TABConf 
+## TABConf 
 - Technical
 - Accessible 
 - Bitcoin
@@ -21,7 +21,5 @@ Don't miss out on your chance to be a part of TABConf 6. Join us in Atlanta, and
 Read about our [history](./history.md) at TABConf. 
 
 *** 
-
-# 4 Days of Building & Learning 🏗️
 
 <a><img src="assets/img/nogood/stickers/NG_TABConf_FullColor_OffWhite.png"></a>
