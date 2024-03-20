@@ -2,7 +2,18 @@
 layout: default
 ---
 
+Mission & Vision
 
+Brining protocol developers and builders together to build the future on Bitcoin. 
+
+TABConf 
+- Technical
+- Accessible 
+- Bitcoin
+- Community
+- Open source
+- Novel
+- Fun
 
 At TABConf, we bring together the best and brightest minds in the bitcoin world to share their insights, knowledge, and experience about the latest developments. From seasoned core devs to up-and-coming plebs.
 
