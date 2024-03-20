@@ -19,12 +19,6 @@ If you could like to apply for a TABConf Grant, please fill out the application 
 
 ***
 
-## Grant Partners
-
-<img align="center" width="400" src="assets/img/sponsors/910x512/qala-logo.png">
-<img align="center" width="400" src="assets/img/sponsors/910x512/vinteum-logo.png">
-<img align="center" width="400" src="assets/img/sponsors/910x512/libreria-de-satoshi-logo.png">
-
 ## Grant Sponsors
 
-<img align="center" width="400" src="assets/img/sponsors/910x512/fedi-logo.png">
+Want to help us make the event possible? Get in front of the Bitcoin developer community! Reach out to <hello@tabconf.com>. You can find information on our [Sponsorsheet](./docs/sponsorsheet.md)
