@@ -4,7 +4,7 @@ layout: default
 
 # Mission
 
-### Bringing protocol developers and builders together to build the future on Bitcoin. 
+### At TABConf, our mission is to create a dynamic environment where protocol and application developers can unite, pinpoint challenges, and cultivate innovation on Bitcoin. This is more than just a conference; it's a collaborative, educational journey for Bitcoin builders of all levels. 
 
 ## TABConf 
 - Technical
