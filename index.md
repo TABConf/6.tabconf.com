@@ -4,7 +4,7 @@ layout: default
 
 # Mission
 
-### Brining protocol developers and builders together to build the future on Bitcoin. 
+### Bringing protocol developers and builders together to build the future on Bitcoin. 
 
 ## TABConf 
 - Technical
