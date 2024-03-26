@@ -9,13 +9,19 @@
 - 10 Sponsor Tickets.
 - Vendor table (two 6-foot tables).
 
-## Builder Days Sponsor - 20k (2/2 Left)
+## Builder Days Sponsor - 25k (1/1 Left)
 - Branding at Builder Days
 - Logo on website (builder days & sponsors page)
 - 8 Sponsor Tickets
 - Vendor table (two 6-foot tables)
 
-## Wristband Sponsor - 10k
+## TABConf After Party Sponsor - 25k (1/1 Left)
+- Branding at After Party
+- Logo on website (sponsors page)
+- 8 Sponsor Tickets
+- Vendor table (two 6-foot tables)
+
+## Wristband Sponsor - 10k (1/1 Left)
 - Logo on wristband
 - Logo on website (sponsors page)
 - 6 Sponsor Tickets
