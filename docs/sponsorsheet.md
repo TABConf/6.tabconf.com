@@ -20,7 +20,7 @@
 - Branding at After Party
 - Logo on website (sponsors page)
 - 8 Sponsor Tickets
-- Vendor table (two 6-foot tables)
+- Sponsor table
 
 ## Wristband Sponsor - 10k (1/1 Left)
 - Logo on wristband
