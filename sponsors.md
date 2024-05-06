@@ -8,7 +8,7 @@ Want to help us make the event possible? Get in front of the Bitcoin developer c
 
 ***
 
-## Builder Days Sponsor [🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
+## Capture the Bitcoin (CTB)[🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
 
 <a href="https://wolfnyc.com/"><img align="Center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png"></a>
 <br/>
