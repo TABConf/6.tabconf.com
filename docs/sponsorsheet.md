@@ -41,15 +41,12 @@ Please see our Grants page for more information on the TABConf Developer Grant P
 - Branding on the CTB website or in the challenge itself.
 - Logo on website (sponsor & CTB pages).
 - 4 Sponsor Tickets.
-- Vendor table (6-foot table).
 
 ## Coffee/ Water Sponsor - 5k (4/4 left)
 - Countless TABConf attendees forever being in your debt.
 - Logo on website (sponsors page).
 - 4 Sponsor Tickets.
-- Vendor table (6-foot table).
 
 ## General Sponsor - 3k - 5k
 - Logo on website (sponsors page).
 - 2-4 Sponsor Tickets.
-- Vendor table (6-foot table).
