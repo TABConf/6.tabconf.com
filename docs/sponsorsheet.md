@@ -50,5 +50,6 @@ Please see our Grants page for more information on the TABConf Developer Grant P
 - Logo on website (sponsors page).
 - 4 Sponsor Tickets.
 
-## Private Meeting Space (1300SQFT) - $1450 Per day
+## Private Meeting Space (rooms around ~1300 sqft) - $1450 Per day
+- Upstairs from Conference Ballroom.
 - Reachout for more information. 
