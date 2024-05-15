@@ -9,7 +9,6 @@
 - Logo on Stage.
 - 10 Sponsor Tickets.
 
-
 ## Builder Days Sponsor - 20k (1/1 Left)
 - Branding at Builder Days
 - Logo on website (builder days & sponsors page)
@@ -47,6 +46,6 @@ Please see our Grants page for more information on the TABConf Developer Grant P
 - Logo on website (sponsors page).
 - 4 Sponsor Tickets.
 
-## General Sponsor - 3k - 5k
+## General Sponsor - 4k
 - Logo on website (sponsors page).
-- 2-4 Sponsor Tickets.
+- 4 Sponsor Tickets.
