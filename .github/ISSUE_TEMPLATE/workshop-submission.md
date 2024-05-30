@@ -1,5 +1,3 @@
-<!-- NOTE!! If you are intending to do a non-interactive demo, THIS IS NOT a workshop, please submit talk demo's under "Solo Talks". -->
-
 ---
 name: Workshop Submission
 about: Submit your workshop idea for TABConf!
@@ -8,6 +6,8 @@ labels: 'Workshop'
 assignees: ''
 
 ---
+
+<!-- NOTE!! If you are intending to do a non-interactive demo, THIS IS NOT a workshop, please submit talk demo's under "Solo Talks". -->
 
 # Description
 ### What is this workshop about? Provide as many details as possible. 
