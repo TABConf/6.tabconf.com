@@ -15,3 +15,11 @@ Want to help us make the event possible? Get in front of the Bitcoin developer c
 Accelerating Lightning. The future of decentralized finance is being built today, and it's being built on Bitcoin and Lightning.
 
 ***
+
+## General Sponsor [🐦](https://twitter.com/River) [🌐](https://river.com/)
+
+<a href="https://river.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/river-logo.png"></a>
+<br/>
+Build your Bitcoin wealth. Buy and mine Bitcoin with 100% full reserve custody, and zero fees on recurring orders.
+
+***
