@@ -16,6 +16,14 @@ Accelerating Lightning. The future of decentralized finance is being built today
 
 ***
 
+## General Sponsor [🐦](https://twitter.com/spiralbtc) [🌐](https://spiral.xyz/)
+
+<a href="https://river.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/Spiral-logo.png"></a>
+<br/>
+Spiral builds and funds free, open-source projects aimed at making bitcoin the planet’s preferred currency.
+
+***
+
 ## General Sponsor [🐦](https://twitter.com/River) [🌐](https://river.com/)
 
 <a href="https://river.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/river-logo.png"></a>
