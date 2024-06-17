@@ -1,6 +1,6 @@
 # TABConf 6 Sponsorsheet
 
-## TABConf 6 Main Sponsor - $30k (1/1 left)
+## TABConf 6 Main Sponsor - $30k (2/2 left)
 - Branding on the Main stage and throughout the conference hall.
 - Sponsor table
 - Branding at Builder Days
