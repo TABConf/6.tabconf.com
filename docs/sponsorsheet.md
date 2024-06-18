@@ -21,7 +21,7 @@
 - 8 Sponsor Tickets
 - Sponsor table
 
-## Wristband Sponsor - $10k (1/1 Left)
+## Badge Sponsor - $10k (0/1 Left)
 - Logo on wristband
 - Logo on website (sponsors page)
 - 6 Sponsor Tickets
