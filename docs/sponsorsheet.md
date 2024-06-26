@@ -1,6 +1,6 @@
 # TABConf 6 Sponsorsheet
 
-## TABConf 6 Main Sponsor - $30k (2/2 left)
+## TABConf 6 Main Sponsor - $30k (1/1 left)
 - Branding on the Main stage and throughout the conference hall.
 - Sponsor table
 - Branding at Builder Days
@@ -21,10 +21,11 @@
 - 8 Sponsor Tickets
 - Sponsor table
 
-## Badge Sponsor - $10k (0/1 Left)
-- Logo on wristband
-- Logo on website (sponsors page)
-- 6 Sponsor Tickets
+## ~~Badge Sponsor - $10k (0/1 Left)~~
+- ~~Logo on wristband~~
+- ~~Logo on website (sponsors page)~~
+- ~~6 Sponsor Tickets~~
+
 
 ## Grant Sponsor - $10k (2/2 left)
 The funds from these sponsors are granted to individuals to help pay for travel expenses to attend the conference. 
