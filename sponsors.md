@@ -8,6 +8,14 @@ Want to help us make the event possible? Get in front of the Bitcoin developer c
 
 ***
 
+## Badge Sponsor [🐦](https://twitter.com/sphinx_chat) [🌐](http://sphinx.chat/)
+
+<a href="http://sphinx.chat/"><img align="center" width="400" src="assets/img/sponsors/910x512/sphinx-logo.png"></a>
+<br/>
+Decentralize social media, and take back your data.
+
+***
+
 ## Capture the Bitcoin (CTB)[🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
 
 <a href="https://wolfnyc.com/"><img align="Center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png"></a>
