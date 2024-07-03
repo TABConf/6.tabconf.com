@@ -1,13 +1,13 @@
 # TABConf 6 Sponsorsheet
 
-## TABConf 6 Main Sponsor - $30k (1/1 left)
-- Branding on the Main stage and throughout the conference hall.
-- Sponsor table
-- Branding at Builder Days
-- Private/ Public Breakout room 
-- Logo on website (home page & sponsors page).
-- Logo on Stage.
-- 10 Sponsor Tickets.
+~~## TABConf 6 Main Sponsor - $30k (0/1 left)~~
+~~- Branding on the Main stage and throughout the conference hall.~~
+~~- Sponsor table~~
+~~- Branding at Builder Days~~
+~~- Private/ Public Breakout room~~
+~~- Logo on website (home page & sponsors page).~~
+~~- Logo on Stage.~~
+~~- 10 Sponsor Tickets.~~
 
 ## Builder Days Sponsor - $20k (1/1 Left)
 - Branding at Builder Days
@@ -42,7 +42,7 @@ Please see our Grants page for more information on the TABConf Developer Grant P
 - Logo on website (sponsor & CTB pages).
 - 4 Sponsor Tickets.
 
-## Coffee/ Water Sponsor - $5k (4/4 left)
+## Coffee/ Water Sponsor - $5k (2/4 left)
 - Countless TABConf attendees forever being in your debt.
 - Logo on website (sponsors page).
 - 4 Sponsor Tickets.
