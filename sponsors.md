@@ -8,6 +8,14 @@ Want to help us make the event possible? Get in front of the Bitcoin developer c
 
 ***
 
+## Main Stage, Coffee/ Water Sponsor [🐦](https://twitter.com/layertwolabs) [🌐](https://layertwolabs.com/)
+
+<a href="https://layertwolabs.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/layer-two-labs-logo.png"></a>
+<br/>
+The LayerTwo Labs Goal is to make every transaction a Bitcoin txn. Drivechains is how they will accomplish it.
+
+***
+
 ## Badge Sponsor [🐦](https://twitter.com/sphinx_chat) [🌐](http://sphinx.chat/)
 
 <a href="http://sphinx.chat/"><img align="center" width="400" src="assets/img/sponsors/910x512/sphinx-logo.png"></a>
