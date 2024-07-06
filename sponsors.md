@@ -50,7 +50,7 @@ Build your Bitcoin wealth. Buy and mine Bitcoin with 100% full reserve custody, 
 
 ## General Sponsor [🐦](https://twitter.com/unchainedcom) [🌐](https://unchained.com/)
 
-<a href="https://unchained.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/unchained-logo.png"></a>
+<a href="https://unchained.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/Unchained-logo.png"></a>
 <br/>
 Secure your bitcoin with confidence. Unchained Protects your bitcoin with cold storage that you control and get access to trading, inheritance, loans, and IRAs—all backed by the best support in the industry.
 
