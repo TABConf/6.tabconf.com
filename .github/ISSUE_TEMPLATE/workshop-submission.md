@@ -16,6 +16,9 @@ assignees: ''
 ### Is there anything attendees should set up before the workshop?
 ### Relevant Links
 
+<!-- PLEASE READ!!! Set expectations for participants! Will this be for "Beginner"s? (No prior knowledge needed, very few technical skills required for workshop? "Intermediate"? At least some knowledge needed to not be lost, technical skills, Comp Sci, IT related experience is greatly beneficial? Will this be "Advanced"? meaning skills required in specific technologies required in order for participants to be successful. Potential a strong working knowledge of certain technologies, libraries, fundamentals, and protocols. --> 
+# Level of difficulty 
+<!-- Please put "Beginner", "Intermediate", or "Advanced". If in doubt error on the side of setting expectations it will be harder. Workshop space may be limitted and we don't want to accidently fill people in on a workshop that isn't for them. --> 
 # About the Speaker
 ### Social Links
 Github 
