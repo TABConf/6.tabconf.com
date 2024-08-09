@@ -24,6 +24,14 @@ Decentralize social media, and take back your data.
 
 ***
 
+## Grant Sponsor [🐦](https://twitter.com/BitLayerLabs) [🌐](https://bitlayer.org/)
+
+<a href="https://bitlayer.org/"><img align="center" width="400" src="assets/img/sponsors/910x512/Bitlayer-logo.png"></a>
+<br/>
+The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.
+
+***
+
 ## Capture the Bitcoin (CTB)[🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
 
 <a href="https://wolfnyc.com/"><img align="Center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png"></a>
