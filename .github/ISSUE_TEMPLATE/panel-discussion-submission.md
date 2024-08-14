@@ -8,10 +8,18 @@ assignees: ''
 ---
 
 # Description
-### What is this panel discussion about? Please give us as many details as possible. 
+### What is this panel discussion about? Will there be multiple talking a points?
 ### What would an attendee learn from this talk?
 ### Is there anything folks should read up on before they attend this talk?
 ### Relevant Links
+
+<!-- leave blank if you are unsure, this list can change -->
+### Moderator: 
+<!-- leave blank if you are unsure, this list can change -->
+### Panelist:
+
+<!-- If you're unsure who will be organizing the panel and want the TABConf staff to handle it, please indicate that here. -->
+### Who will be helping organize this panel?
 
 # About the panelist
 ### Social Links
