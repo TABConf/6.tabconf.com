@@ -16,18 +16,13 @@ assignees: ''
 <!-- leave blank if you are unsure, this list can change -->
 ### Moderator: 
 <!-- leave blank if you are unsure, this list can change -->
-### Panelist:
+Panelist
+<!-- list Names, Social Links, GitHub, Twitter, Website ->
 
 <!-- If you're unsure who will be organizing the panel and want the TABConf staff to handle it, please indicate that here. -->
 ### Who will be helping organize this panel?
 
-# About the panelist
-### Social Links
-GitHub 
-Twitter
-Website
 
-# Panel Discussion Details
 ### Length of the panel discussion
 ### Preferred Day/Time Slot 
 *We will do our best to accommodate your requested time slot. Please let us know if there are any dates/times that ***absolutely do not work*** for you.*
