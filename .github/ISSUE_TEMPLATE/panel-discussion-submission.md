@@ -16,8 +16,8 @@ assignees: ''
 <!-- leave blank if you are unsure, this list can change -->
 ### Moderator: 
 <!-- leave blank if you are unsure, this list can change -->
-Panelist
-<!-- list Names, Social Links, GitHub, Twitter, Website ->
+Panelist:
+<!-- list Names, Social Links, GitHub, Twitter, Website -->
 
 <!-- If you're unsure who will be organizing the panel and want the TABConf staff to handle it, please indicate that here. -->
 ### Who will be helping organize this panel?
