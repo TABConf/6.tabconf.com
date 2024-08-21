@@ -22,4 +22,4 @@ Read about our [history](./history.md) at TABConf.
 
 *** 
 
-<a><img src="assets/img/nogood/stickers/NG_TABConf_FullColor_OffWhite.png"></a>
+<a><img src="assets/img/nogood/NoGood_TABConf6_4096.png"></a>
