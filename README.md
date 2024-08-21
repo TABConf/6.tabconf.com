@@ -1,5 +1,3 @@
-<a><img src="assets/img/nogood/stickers/NG_TABConf_FullColor_OffWhite.png"></a>
-
 A Technical Bitcoin Conference
 [Checkout the website for more info](https://6.tabconf.com/)
 
@@ -15,3 +13,5 @@ TABConf - The Atlanta Bitcoin Conference — an event for building communities, 
 - Builder Day: Meet the people who build your favorite open-source Bitcoin projects, and learn how to become a FOSS contributor yourself.
 - Capture the Bitcoin: This conference-wide scavenger hunt will test your knowledge of Bitcoin as you compete to be the first to steal real Bitcoin!
 - Chess Tournament: Chess tournament. 100k sats buy-in, winner, take all! 
+
+<a><img src="assets/img/nogood/NoGood_TABConf6_4096.png"></a>
