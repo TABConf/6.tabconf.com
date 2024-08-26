@@ -9,23 +9,22 @@
 - ~~Logo on Stage.~~
 - -~~10 Sponsor Tickets.~~
 
-## Builder Days Sponsor - $20k (1/1 Left)
-- Branding at Builder Days
-- Logo on website (builder days & sponsors page)
-- 8 Sponsor Tickets
-- Sponsor table
+## ~~Builder Days Sponsor - $20k (1/1 Left)~~
+- ~~Branding at Builder Days~~
+- ~~Logo on website (builder days & sponsors page)~~
+- ~~8 Sponsor Tickets~~
+- ~~Sponsor table~~
 
-## TABConf After Party Sponsor - $20k (1/1 Left)
-- Branding at After Party
-- Logo on website (sponsors page)
-- 8 Sponsor Tickets
-- Sponsor table
+## ~~TABConf After Party Sponsor - $20k (1/1 Left)~~
+- ~~Branding at After Party~~
+- ~~Logo on website (sponsors page)~~
+- ~~8 Sponsor Tickets~~
+- ~~Sponsor table~~
 
 ## ~~Badge Sponsor - $10k (0/1 Left)~~
 - ~~Logo on wristband~~
 - ~~Logo on website (sponsors page)~~
 - ~~6 Sponsor Tickets~~
-
 
 ## Grant Sponsor - $10k (1/2 left)
 The funds from these sponsors are granted to individuals to help pay for travel expenses to attend the conference. 
