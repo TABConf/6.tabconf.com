@@ -7,7 +7,7 @@
 - ~~Private/ Public Breakout room~~
 - ~~Logo on website (home page & sponsors page).~~
 - ~~Logo on Stage.~~
-- -~~10 Sponsor Tickets.~~
+- ~~10 Sponsor Tickets.~~
 
 ## ~~Builder Days Sponsor - $20k (1/1 Left)~~
 - ~~Branding at Builder Days~~
