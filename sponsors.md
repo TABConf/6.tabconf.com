@@ -19,6 +19,14 @@ The LayerTwo Labs Goal is to make every transaction a Bitcoin txn. Drivechains i
 
 ***
 
+## HRF Bitcoin Development Fund Grant [🐦](https://twitter.com/HRF) [🌐](https://hrf.org/devfund)
+
+<a href="https://hrf.org/devfund"><img align="center" width="400" src="assets/img/sponsors/910x512/hrf-logo.png"></a>
+<br/>
+The HRF Bitcoin Development Fund supports software developers who are making the Bitcoin network more private, decentralized, and resilient so that it can better serve as a financial tool for human rights activists, civil society organizations, and journalists around the world.
+
+***
+
 ## Builder Days, CTB Sponsor [🐦](https://twitter.com/andurobtc) [🌐](https://www.anduro.io/)
 
 <a href="https://www.anduro.io/"><img align="center" width="400" src="assets/img/sponsors/910x512/Anduro-logo.png"></a>
