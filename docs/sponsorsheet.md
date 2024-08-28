@@ -41,7 +41,7 @@
 - Logo on website (sponsor & CTB pages).
 - 4 Sponsor Tickets.
 
-## Coffee/ Water Sponsor - $5k (2/4 left)
+## Coffee/ Water Sponsor - $5k (1/4 left)
 - Countless TABConf attendees forever being in your debt.
 - Logo on website (sponsors page).
 - 4 Sponsor Tickets.
