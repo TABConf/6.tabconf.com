@@ -27,6 +27,14 @@ Anduro is a multi-sidechain platform on Bitcoin incubated by the top NASDAQ-list
 
 ***
 
+## After Party Sponsor [🐦](https://twitter.com/TaprootWizards) [🌐](https://taprootwizards.com/)
+
+<a href="https://taprootwizards.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/Taprootwizards-logo.png"></a>
+<br/>
+make bitcoin magical again with magic internet JPEGs inscribed forever on the Bitcoin blockchain
+
+***
+
 ## Badge Sponsor [🐦](https://twitter.com/sphinx_chat) [🌐](http://sphinx.chat/)
 
 <a href="http://sphinx.chat/"><img align="center" width="400" src="assets/img/sponsors/910x512/sphinx-logo.png"></a>
