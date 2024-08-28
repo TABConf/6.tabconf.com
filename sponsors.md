@@ -67,6 +67,14 @@ Open payments for the Internet. Enterprise-grade, fast, secure payments on Light
 
 ***
 
+## Coffee/ Water Sponsor [🐦](https://twitter.com/zebedeeio) [🌐](https://zebedee.io/)
+
+<a href="https://zebedee.io/"><img align="center" width="400" src="assets/img/sponsors/910x512/zebedee-logo.png"></a>
+<br/>
+ZBD is building the future of payments powered by the Lightning Network.
+
+***
+
 ## Capture the Bitcoin (CTB)[🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
 
 <a href="https://wolfnyc.com/"><img align="Center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png"></a>
@@ -77,7 +85,7 @@ Accelerating Lightning. The future of decentralized finance is being built today
 
 ## General Sponsor [🐦](https://twitter.com/spiralbtc) [🌐](https://spiral.xyz/)
 
-<a href="https://river.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/Spiral-logo.png"></a>
+<a href="https://spiral.xyz/"><img align="center" width="400" src="assets/img/sponsors/910x512/Spiral-logo.png"></a>
 <br/>
 Spiral builds and funds free, open-source projects aimed at making bitcoin the planet’s preferred currency.
 
