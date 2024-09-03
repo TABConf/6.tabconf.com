@@ -36,15 +36,15 @@
 - Logo on website (sponsors page)
 - 6 Sponsor Tickets
 
-## ~~Capture the Bitcoin Sponsor (CTB) - $5k (2/4 left)~~
-- ~~Branding on the CTB website or in the challenge itself.~~
-- ~~Logo on website (sponsor & CTB pages).~~
-- ~~4 Sponsor Tickets.~~
-
-## Coffee/ Water Sponsor - $5k (0/4 left)
-- Countless TABConf attendees forever being in your debt.
-- Logo on website (sponsors page).
+## Capture the Bitcoin Sponsor (CTB) - $5k (2/4 left)
+- Branding on the CTB website or in the challenge itself.
+- Logo on website (sponsor & CTB pages).
 - 4 Sponsor Tickets.
+
+## ~~Coffee/ Water Sponsor - $5k (0/4 left)~~
+- ~~Countless TABConf attendees forever being in your debt.~~
+- ~~Logo on website (sponsors page).~~
+- ~~4 Sponsor Tickets.~~
 
 ## General Sponsor - $4k
 - Logo on website (sponsors page).
