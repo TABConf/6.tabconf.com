@@ -75,6 +75,14 @@ ZBD is building the future of payments powered by the Lightning Network.
 
 ***
 
+## Coffee/ Water Sponsor [🐦](https://twitter.com/cleanspark_inc) [🌐](https://www.cleanspark.com/)
+
+<a href="https://www.cleanspark.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/CleanSpark-logo.png"></a>
+<br/>
+America’s Bitcoin Miner®. CleanSpark responsibly develops infrastructure for Bitcoin, an essential tool for financial independence and inclusion.
+
+***
+
 ## Capture the Bitcoin (CTB)[🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
 
 <a href="https://wolfnyc.com/"><img align="Center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png"></a>
