@@ -43,12 +43,11 @@ make bitcoin magical again with magic internet JPEGs inscribed forever on the Bi
 
 ***
 
-## Badge Sponsor [🐦](https://twitter.com/sphinx_chat) [🌐](http://sphinx.chat/)
+## Badge Sponsor [🐦](https://twitter.com/stakwork) [🌐](https://stakwork.com/)
 
-<a href="http://sphinx.chat/"><img align="center" width="400" src="assets/img/sponsors/910x512/sphinx-logo.png"></a>
+<a href="https://stakwork.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/Stak-logo.png"></a>
 <br/>
-Decentralize social media, and take back your data.
-
+Hypergrowth shouldn’t hurt. With business process automation that integrates an always-on network of cloudsourced workers, it doesn’t have to.
 ***
 
 ## Grant Sponsor [🐦](https://twitter.com/BitLayerLabs) [🌐](https://bitlayer.org/)
