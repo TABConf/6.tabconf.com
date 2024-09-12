@@ -66,9 +66,9 @@ Open payments for the Internet. Enterprise-grade, fast, secure payments on Light
 
 ***
 
-## Coffee/ Water Sponsor [🐦](https://twitter.com/zebedeeio) [🌐](https://zebedee.io/)
+## Coffee/ Water Sponsor [🐦](https://twitter.com/zebedeeio) [🌐](https://zbd.gg/)
 
-<a href="https://zebedee.io/"><img align="center" width="400" src="assets/img/sponsors/910x512/zebedee-logo.png"></a>
+<a href="https://zbd.gg"><img align="center" width="400" src="assets/img/sponsors/910x512/zbd-logo.png"></a>
 <br/>
 ZBD is building the future of payments powered by the Lightning Network.
 
