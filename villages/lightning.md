@@ -10,4 +10,4 @@ This is where you go to hang out and have some sat-stacking fun after all those 
 
 ## Village Sponsor
 
-<img align="center" width="400" src="/assets/img/sponsors/910x512/zebedee-logo.png">
+<img align="center" width="400" src="/assets/img/sponsors/910x512/zbd-logo.png">
