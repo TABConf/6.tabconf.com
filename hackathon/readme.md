@@ -72,8 +72,8 @@ To submit your project for the ZBD x PlebLab Hackathon, follow these steps:
 
 1. Fork this repository to your own GitHub account.
 2. Create a new branch named after your project (e.g., `project-awesome-bitcoin-app`).
-3. Copy the `SUBMISSION.md` file from the root of this repository to your branch.
-4. Fill out all the sections in the `SUBMISSION.md` file with your project details.
+3. Copy the `submission.md` file from the root of this repository to your branch.
+4. Fill out all the sections in the `submission.md` file with your project details.
 5. Commit your changes and push the branch to your forked repository.
 6. Create a pull request from your branch to the main branch of this repository.
 7. In the pull request description, briefly introduce your project and confirm that you've read and agreed to the hackathon rules.
@@ -93,3 +93,89 @@ All funds go towards the prize pool, developer experience, and swag.
 We have flexible packages available at all budgets.
 
 Message Santos on our community Signal group.
+
+## Frequently Asked Questions (FAQ) ❓
+
+<details>
+<summary>Who can participate in the hackathon?</summary>
+
+The hackathon is open to developers of all skill levels, from beginners to experts. You must be at least 18 years old to participate.
+
+</details>
+
+<details>
+<summary>Do I need to know how to code to participate?</summary>
+
+While coding skills are beneficial, teams can benefit from a mix of skills including design, business strategy, and Bitcoin knowledge. Non-developers are welcome to join teams and contribute their unique skills.
+
+</details>
+
+<details>
+<summary>Can I work on a pre-existing project?</summary>
+
+No, all projects must be developed during the hackathon period. You can come with ideas, but the actual development should start when the hackathon begins.
+
+</details>
+
+<details>
+<summary>What if I don't have a team?</summary>
+
+Don't worry! We encourage solo participants to join our Signal group where you can network and form teams with other participants.
+
+</details>
+
+<details>
+<summary>Is there a participation fee?</summary>
+
+No, participation in the ZBD x PlebLab Hackathon is completely free.
+
+</details>
+
+<details>
+<summary>What kind of projects are you looking for?</summary>
+
+We're looking for innovative projects that leverage Bitcoin technology. This could be anything from new wallet solutions to creative applications of the Lightning Network. Check our categories for more specific ideas.
+
+</details>
+
+<details>
+<summary>Do we retain the intellectual property rights to our project?</summary>
+
+Yes, you retain all rights to your project. However, remember that submissions must be open source as per the hackathon rules.
+
+</details>
+
+<details>
+<summary>What if I can't attend the entire duration of the hackathon?</summary>
+
+While we encourage full participation, we understand that life happens. You can still participate, but remember that all submissions are due by the deadline, regardless of when you started.
+
+</details>
+
+<details>
+<summary>Are there any restrictions on the technologies we can use?</summary>
+
+As long as your project involves Bitcoin in some capacity, you're free to use any programming languages, frameworks, or tools you prefer.
+
+</details>
+
+<details>
+<summary>How will the judging process work?</summary>
+
+Judging will occur in two rounds. In the first round, all submissions will be reviewed based on our judging criteria. Finalists will then be invited to pitch their projects to our panel of judges in the second round.
+
+</details>
+
+<details>
+<summary>What support will be available during the hackathon?</summary>
+
+We'll have mentors available in our Signal group to answer questions and provide guidance. We'll also be hosting workshops and AMA sessions throughout the event.
+
+</details>
+
+<details>
+<summary>I have a question that's not answered here. What should I do?</summary>
+
+For any additional questions, please join our Signal group and ask there. Our organizers and community members will be happy to help!
+
+</details>
