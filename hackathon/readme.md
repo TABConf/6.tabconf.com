@@ -82,7 +82,7 @@ Your submission is not complete until you've created a pull request with your fi
 
 For a detailed template of what to include in your submission, please refer to the [SUBMISSION.md](./SUBMISSION.md) file in this repository.
 
-**Deadline**: Remember, all submissions must be received by 11:59 PM PT on October 25th, 2024. Late submissions will not be accepted.
+**Deadline**: Remember, all submissions must be received by 11:59 PM PT on October 24th, 2024. Late submissions will not be accepted.
 
 If you have any questions about the submission process, please reach out to the organizers through the Signal group.
 
