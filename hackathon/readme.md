@@ -10,6 +10,23 @@ Our goal is to bring together the best minds in Bitcoin to learn, build, ship, a
 - 👥 30+ estimated participants and 10+ teams
 - 🎯 Focused on exceptional Bitcoin innovation, value-4-value, and protocol development
 
+## RSVP 🎉
+
+🙋‍♀️🙋‍♂️ Let us know you're coming! Your RSVP helps us:
+
+- 🎒 Prepare the right amount of awesome swag
+- 🍕 Plan for food and refreshments
+- 🪑 Arrange adequate seating
+- 🗓️ Organize a fantastic schedule
+
+**Don't miss out!** Click the link below to secure your spot:
+
+[**RSVP Now! →**](https://evento.so/p/evt_6nizc2dSrMMD7MCJ)
+
+_We can't wait to see you there!_ 🚀
+
+RSVP.
+
 ## Categories 🏆
 
 - 🥇 Best Hack Overall
