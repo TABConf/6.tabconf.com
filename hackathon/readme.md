@@ -1,4 +1,4 @@
-# 🚀 ZBD x PlebLab Hackathon 🧙‍♂️
+# 🚀 ZBD x PlebLab Hackathon II 🧙‍♂️
 
 ## Hackathon Overview 🌟
 
