@@ -1,3 +1,5 @@
+![ZBD x PlebLab Hackathon Image](https://pbs.twimg.com/media/GW2IHa2WYAE71ca?format=jpg&name=large)
+
 # 🚀 TABConf 6 Hackathon Submission
 
 ## Project Name: [Your Project Name]
