@@ -25,8 +25,6 @@ Our goal is to bring together the best minds in Bitcoin to learn, build, ship, a
 
 _We can't wait to see you there!_ 🚀
 
-RSVP.
-
 ## Categories 🏆
 
 - 🥇 Best Hack Overall
