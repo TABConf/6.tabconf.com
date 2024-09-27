@@ -1,3 +1,5 @@
+![ZBD x PlebLab Hackathon Image](https://i.imgur.com/MeQRbc5.png)
+
 # 🚀 ZBD x PlebLab Hackathon II 🧙‍♂️
 
 ## Hackathon Overview 🌟
