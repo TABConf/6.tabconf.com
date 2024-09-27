@@ -50,7 +50,7 @@ Our goal is to bring together the best minds in Bitcoin to learn, build, ship, a
 - 🆕 Your project must be developed DURING the TABConf hackathon
 - 📂 All entries must be open source. The link to the codebase must be included in the submission
 - ⏰ You must submit before the deadline. No late projects will be accepted
-- 🎥 Include a 1-minute demo video
+- 🎥 Include a demo video that is at least 1-minute.
 - ₿ Must use Bitcoin in some capacity
 
 ## TABConf 6 Hackathon Judging Criteria 🧐
@@ -95,6 +95,12 @@ All funds go towards the prize pool, developer experience, and swag.
 We have flexible packages available at all budgets.
 
 Message Santos on our community Signal group.
+
+## History 📜
+
+PlebLab joined forces with ZBD for the much-anticipated TabConf Hackathon 2023. With a whopping prize pool exceeding $10,000, we witnessed innovation at its best, setting the groundwork for the next major revolution in the Bitcoin realm. Join us as we take you through last years highlights!
+
+[View here](https://www.youtube.com/playlist?list=PLvxf1TpXqCAKAFlIxzQHLylwJv8IL672s)
 
 ## Frequently Asked Questions (FAQ) ❓
 
