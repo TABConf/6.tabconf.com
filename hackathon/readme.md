@@ -87,17 +87,13 @@ Join us to ask questions, find a team, share ideas, get the latest updates, and 
 
 To submit your project for the ZBD x PlebLab Hackathon, follow these steps:
 
-1. Fork this repository to your own GitHub account.
-2. Create a new branch named after your project (e.g., `project-awesome-bitcoin-app`).
-3. Copy the `submission.md` file from the root of this repository to your branch.
-4. Fill out all the sections in the `submission.md` file with your project details.
-5. Commit your changes and push the branch to your forked repository.
-6. Create a pull request from your branch to the main branch of this repository.
-7. In the pull request description, briefly introduce your project and confirm that you've read and agreed to the hackathon rules.
+1. Create a new issue using the `hackathon-submission.md` template
+2. Ensure the information is complete whereever relevant.
+3. Share it in the Signal group chat.
 
-Your submission is not complete until you've created a pull request with your filled-out `SUBMISSION.md` file.
+Your submission is not complete until you've created a issue with your filled-out `hackathon-submission.md` file.
 
-For a detailed template of what to include in your submission, please refer to the [SUBMISSION.md](./SUBMISSION.md) file in this repository.
+For a detailed template of what to include in your submission, please refer to the [hackathon-submission.md](../.github/ISSUE_TEMPLATE/hackathon-submission.md) file in this repository.
 
 **Deadline**: Remember, all submissions must be received by 11:59 PM PT on October 24th, 2024. Late submissions will not be accepted.
 
