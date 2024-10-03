@@ -18,8 +18,7 @@ A thunderous round of applause for our mind-blowing flagship Sponsor, Fulgur Ven
 ## Prize Pool 🏆💰
 Get ready to have your minds blown, hackers! 🤯 We're unleashing a jaw-dropping prize pool that'll make your code dance with joy:
 
-🔥 A sizzling hot total of up to $5K up for grabs!
-₿ Approximately $3K in BTC - because who doesn't love some crypto-goodness?
+🔥 A sizzling hot total of up to $5K up for grabs! ₿ Approximately $3K in BTC - because who doesn't love some Bitcoin-goodness?
 🎒 Epic swag bags packed with goodies to make your fellow devs green with envy!
 🔓 Unlock a whole month of building brilliance with a PlebLab online builder pass!
 Are you ready to code your way to glory? Let the hack-tastic games begin! 🚀👨‍💻👩‍💻
