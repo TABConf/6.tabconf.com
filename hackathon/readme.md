@@ -10,6 +10,20 @@ Our goal is to bring together the best minds in Bitcoin to learn, build, ship, a
 - 👥 30+ estimated participants and 10+ teams
 - 🎯 Focused on exceptional Bitcoin innovation, value-4-value, and protocol development
 
+## Sponsors 🚀💎
+A thunderous round of applause for our mind-blowing flagship Sponsor, Fulgur Ventures! 🌟⚡ They've supercharged our hackathon and prize pool with their electrifying support!
+
+![Fulgur Ventures](https://i.imgur.com/JTi3llP.png)
+
+## Prize Pool 🏆💰
+Get ready to have your minds blown, hackers! 🤯 We're unleashing a jaw-dropping prize pool that'll make your code dance with joy:
+
+🔥 A sizzling hot total of up to $5K up for grabs!
+₿ Approximately $3K in BTC - because who doesn't love some crypto-goodness?
+🎒 Epic swag bags packed with goodies to make your fellow devs green with envy!
+🔓 Unlock a whole month of building brilliance with a PlebLab online builder pass!
+Are you ready to code your way to glory? Let the hack-tastic games begin! 🚀👨‍💻👩‍💻
+
 ## RSVP 🎉
 
 🙋‍♀️🙋‍♂️ Let us know you're coming! Your RSVP helps us:
