@@ -27,7 +27,7 @@ Hampton
 ### How can I apply to speak or give a workshop at TABConf 6?
  
 - You can open a [Github issue here](https://github.com/TABConf/6.tabconf.com/issues) to apply for a speaker or workshop slot.
-- If your submission is selected for one of the villages or mainstage, it will be added to the [TABConf 6 Schedule](https://github.com/orgs/TABConf/projects/1)
+- If your submission is selected for one of the villages or mainstage, it will be added to the [TABConf 6 Schedule](https://github.com/orgs/TABConf/projects/4)
 
 *** 
 
