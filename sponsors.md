@@ -121,3 +121,11 @@ Build your Bitcoin wealth. Buy and mine Bitcoin with 100% full reserve custody, 
 Secure your bitcoin with confidence. Unchained Protects your bitcoin with cold storage that you control and get access to trading, inheritance, loans, and IRAs—all backed by the best support in the industry.
 
 ***
+
+## Hackathon Sponsor [🐦](https://x.com/FulgurVentures) [🌐](https://fulgur.ventures/)
+
+<a href="https://fulgur.ventures/"><img align="center" width="400" src="https://camo.githubusercontent.com/8bd01d7fcf832e49c1535530f2fbc3fcb9f1fa8b38563dda12f5d3a8b6924d54/68747470733a2f2f692e696d6775722e636f6d2f4a5469336c6c502e706e67"></a>
+<br/>
+Fulgur Venture invests in early stage startups focused on Bitcoin and the Lightning Network
+
+***
