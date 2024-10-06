@@ -1,4 +1,4 @@
-![ZBD x PlebLab Hackathon Image](https://i.imgur.com/MeQRbc5.png)
+![ZBD x PlebLab Hackathon Image](https://i.imgur.com/DBgcCaP.png)
 
 # 🚀 ZBD x PlebLab Hackathon II 🧙‍♂️
 
@@ -59,7 +59,7 @@ _We can't wait to see you there!_ 🚀
   - Demonstration of the project
   - How Bitcoin is used within the project and fits within a particular category (if relevant)
 - 📝 Submissions will take place on the TABConf GitHub with a provided template
-- 🏅 Winners of this round will advance to the semifinalists where they will have the opportunity to present on the Main Stage at TABConf 6
+- 🏅 Winners of this round will advance to the semifinalists where they will have the opportunity to present on stage at the Next Gen Village at TABConf 6. Winners will be announced Main Stage!
 - 👨‍⚖️ Round 1 will be judged by Car of PlebLab and I
 
 ### Round 2 - The Semifinalists 🥈
