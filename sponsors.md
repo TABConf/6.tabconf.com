@@ -122,9 +122,17 @@ Secure your bitcoin with confidence. Unchained Protects your bitcoin with cold s
 
 ***
 
+## Grant Sponsor [🐦](https://twitter.com/fedibtc) [🌐](https://www.fedi.xyz/)
+
+<a href="https://www.fedi.xyz/"><img align="center" width="400" src="assets/img/sponsors/910x512/fedi-logo.png"></a>
+<br/>
+Fedi builds global Bitcoin adoption technology. Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively.
+
+***
+
 ## Hackathon Sponsor [🐦](https://x.com/FulgurVentures) [🌐](https://fulgur.ventures/)
 
-<a href="https://fulgur.ventures/"><img align="center" width="400" src="https://camo.githubusercontent.com/8bd01d7fcf832e49c1535530f2fbc3fcb9f1fa8b38563dda12f5d3a8b6924d54/68747470733a2f2f692e696d6775722e636f6d2f4a5469336c6c502e706e67"></a>
+<a href="https://fulgur.ventures/"><img align="center" width="400" src="assets/img/sponsors/910x512/fulgur-ventures-logo.png"></a>
 <br/>
 Fulgur Venture invests in early stage startups focused on Bitcoin and the Lightning Network
 
