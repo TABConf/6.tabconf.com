@@ -50,6 +50,6 @@
 - Logo on website (sponsors page).
 - 4 Sponsor Tickets.
 
-## Private Meeting Space (rooms around ~1300 sqft) - $1450 Per day
-- Upstairs from Conference Ballroom.
-- Reachout for more information. 
+## ~~Private Meeting Space (rooms around ~1300 sqft) - $1450 Per day~~
+- ~~Upstairs from Conference Ballroom.~~
+- ~~Reachout for more information. ~~
