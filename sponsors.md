@@ -82,7 +82,7 @@ America’s Bitcoin Miner®. CleanSpark responsibly develops infrastructure for 
 
 ***
 
-## Capture the Bitcoin (CTB)[🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
+## Capture the Bitcoin (CTB) Sponsor [🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
 
 <a href="https://wolfnyc.com/"><img align="Center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png"></a>
 <br/>
@@ -90,11 +90,19 @@ Accelerating Lightning. The future of decentralized finance is being built today
 
 ***
 
-## Capture the Bitcoin (CTB)[🐦](https://twitter.com/StarkWareLtd) [🌐](https://starkware.co/)
+## Capture the Bitcoin (CTB) Sponsor [🐦](https://twitter.com/StarkWareLtd) [🌐](https://starkware.co/)
 
 <a href="https://wolfnyc.com/"><img align="Center" width="400" src="assets/img/sponsors/910x512/Starkware-logo.png"></a>
 <br/>
 STARK Proof Pioneers. Bringing scalability, security, and privacy to a blockchain near you.
+
+***
+
+## Capture the Bitcoin (CTB) Sponsor [🐦](https://twitter.com/fedibtc) [🌐](https://www.fedi.xyz/)
+
+<a href="https://www.fedi.xyz/"><img align="center" width="400" src="assets/img/sponsors/910x512/fedi-logo.png"></a>
+<br/>
+Fedi builds global Bitcoin adoption technology. Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively.
 
 ***
 
@@ -119,14 +127,6 @@ Build your Bitcoin wealth. Buy and mine Bitcoin with 100% full reserve custody, 
 <a href="https://unchained.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/Unchained-logo.png"></a>
 <br/>
 Secure your bitcoin with confidence. Unchained Protects your bitcoin with cold storage that you control and get access to trading, inheritance, loans, and IRAs—all backed by the best support in the industry.
-
-***
-
-## Grant Sponsor [🐦](https://twitter.com/fedibtc) [🌐](https://www.fedi.xyz/)
-
-<a href="https://www.fedi.xyz/"><img align="center" width="400" src="assets/img/sponsors/910x512/fedi-logo.png"></a>
-<br/>
-Fedi builds global Bitcoin adoption technology. Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively.
 
 ***
 
