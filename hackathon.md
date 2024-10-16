@@ -39,11 +39,11 @@ Are you ready to code your way to glory? Let the hack-tastic games begin! 🚀�
 
 _We can't wait to see you there!_ 🚀
 
-## Categories 🏆
+## Categories and Prize Pool 🏆
 
-- 🥇 Best Hack Overall
-- 💎 Best Value4Value Product or App
-- 🔒 Best Hardware Hack
+- 🥇 Best Hack Overall: $1500
+- 💎 Best Value4Value Product or App: $250
+- 🔒 Best Hardware Hack: $250
 
 ## Key Facts About The TABConf Hackathon 📊
 
