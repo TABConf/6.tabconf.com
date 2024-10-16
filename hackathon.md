@@ -18,9 +18,10 @@ A thunderous round of applause for our mind-blowing flagship Sponsor, Fulgur Ven
 ## Prize Pool 🏆💰
 Get ready to have your minds blown, hackers! 🤯 We're unleashing a jaw-dropping prize pool that'll make your code dance with joy:
 
-🔥 A sizzling hot total of up to $5K up for grabs! ₿ Approximately $3K in BTC - because who doesn't love some Bitcoin-goodness?
-🎒 Epic swag bags packed with goodies to make your fellow devs green with envy!
-🔓 Unlock a whole month of building brilliance with a PlebLab online builder pass!
+- 🔥 A sizzling hot total of up to $5K up for grabs! ₿ Approximately $3K in BTC - because who doesn't love some Bitcoin-goodness?
+- 🎒 Epic swag bags packed with goodies to make your fellow devs green with envy!
+- 🔓 Unlock a whole month of building brilliance with a PlebLab online builder pass!
+  
 Are you ready to code your way to glory? Let the hack-tastic games begin! 🚀👨‍💻👩‍💻
 
 ## RSVP 🎉
@@ -38,11 +39,11 @@ Are you ready to code your way to glory? Let the hack-tastic games begin! 🚀�
 
 _We can't wait to see you there!_ 🚀
 
-## Categories 🏆
+## Categories and Prize Pool 🏆
 
-- 🥇 Best Hack Overall
-- 💎 Best Value4Value Product or App
-- 🔒 Best Taproot Hack
+- 🥇 Best Hack Overall: $1500
+- 💎 Best Value4Value Product or App: $250
+- 🔒 Best Hardware Hack: $250
 
 ## Key Facts About The TABConf Hackathon 📊
 
@@ -104,9 +105,7 @@ To submit your project for the ZBD x PlebLab Hackathon, follow these steps:
 2. Ensure the information is complete whereever relevant.
 3. Share it in the Signal group chat.
 
-Your submission is not complete until you've created a issue with your filled-out `hackathon-submission.md` file.
-
-For a detailed template of what to include in your submission, please refer to the [hackathon-submission.md](../.github/ISSUE_TEMPLATE/hackathon-submission.md) file in this repository.
+Your submission is not complete until you've created a issue with your filled-out `hackathon-submission.md` and submitted your GitHub issue.
 
 **Deadline**: Remember, all submissions must be received by 11:59 PM PT on October 24th, 2024. Late submissions will not be accepted.
 
