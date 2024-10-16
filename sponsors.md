@@ -92,7 +92,7 @@ Accelerating Lightning. The future of decentralized finance is being built today
 
 ## Capture the Bitcoin (CTB) Sponsor [🐦](https://twitter.com/StarkWareLtd) [🌐](https://starkware.co/)
 
-<a href="https://wolfnyc.com/"><img align="Center" width="400" src="assets/img/sponsors/910x512/Starkware-logo.png"></a>
+<a href="https://starkware.co/"><img align="Center" width="400" src="assets/img/sponsors/910x512/Starkware-logo.png"></a>
 <br/>
 STARK Proof Pioneers. Bringing scalability, security, and privacy to a blockchain near you.
 
