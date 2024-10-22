@@ -82,7 +82,7 @@ America’s Bitcoin Miner®. CleanSpark responsibly develops infrastructure for 
 
 ***
 
-## Capture the Bitcoin (CTB)[🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
+## Capture the Bitcoin (CTB) Sponsor [🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
 
 <a href="https://wolfnyc.com/"><img align="Center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png"></a>
 <br/>
@@ -90,11 +90,19 @@ Accelerating Lightning. The future of decentralized finance is being built today
 
 ***
 
-## Capture the Bitcoin (CTB)[🐦](https://twitter.com/StarkWareLtd) [🌐](https://starkware.co/)
+## Capture the Bitcoin (CTB) Sponsor [🐦](https://twitter.com/StarkWareLtd) [🌐](https://starkware.co/)
 
-<a href="https://wolfnyc.com/"><img align="Center" width="400" src="assets/img/sponsors/910x512/Starkware-logo.png"></a>
+<a href="https://starkware.co/"><img align="Center" width="400" src="assets/img/sponsors/910x512/Starkware-logo.png"></a>
 <br/>
 STARK Proof Pioneers. Bringing scalability, security, and privacy to a blockchain near you.
+
+***
+
+## Capture the Bitcoin (CTB) Sponsor [🐦](https://twitter.com/fedibtc) [🌐](https://www.fedi.xyz/)
+
+<a href="https://www.fedi.xyz/"><img align="center" width="400" src="assets/img/sponsors/910x512/fedi-logo.png"></a>
+<br/>
+Fedi builds global Bitcoin adoption technology. Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively.
 
 ***
 
@@ -125,11 +133,13 @@ Secure your bitcoin with confidence. Unchained Protects your bitcoin with cold s
 ## Hackathon Sponsor [🐦](https://x.com/FulgurVentures) [🌐](https://fulgur.ventures/)
 
 ### Premier Sponsor
+
 <a href="https://fulgur.ventures/"><img align="center" width="400" src="https://camo.githubusercontent.com/8bd01d7fcf832e49c1535530f2fbc3fcb9f1fa8b38563dda12f5d3a8b6924d54/68747470733a2f2f692e696d6775722e636f6d2f4a5469336c6c502e706e67"></a>
 <br/>
 Fulgur Venture invests in early stage startups focused on Bitcoin and the Lightning Network
 
 ### Platinum Sponsors
+
 <a href="https://opensourcejustice.org/"><img align="center" width="400" src="https://i.imgur.com/GAeVJKk.png"></a>
 <br/>
 Increasing access to justice globally through open-source software and technology.

@@ -36,7 +36,7 @@
 - Logo on website (sponsors page)
 - 6 Sponsor Tickets
 
-## Capture the Bitcoin Sponsor (CTB) - $5k (2/4 left)
+## Capture the Bitcoin Sponsor (CTB) - $5k (1/4 left)
 - Branding on the CTB website or in the challenge itself.
 - Logo on website (sponsor & CTB pages).
 - 4 Sponsor Tickets.
@@ -50,6 +50,6 @@
 - Logo on website (sponsors page).
 - 4 Sponsor Tickets.
 
-## Private Meeting Space (rooms around ~1300 sqft) - $1450 Per day
-- Upstairs from Conference Ballroom.
-- Reachout for more information. 
+## ~~Private Meeting Space (rooms around ~1300 sqft) - $1450 Per day~~
+- ~~Upstairs from Conference Ballroom.~~
+- ~~Reachout for more information. ~~
