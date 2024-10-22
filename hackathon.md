@@ -13,7 +13,11 @@ Our goal is to bring together the best minds in Bitcoin to learn, build, ship, a
 ## Sponsors 🚀💎
 A thunderous round of applause for our mind-blowing flagship Sponsor, Fulgur Ventures! 🌟⚡ They've supercharged our hackathon and prize pool with their electrifying support!
 
+### Premier Sponsor
 ![Fulgur Ventures](https://i.imgur.com/JTi3llP.png)
+
+### Platinum Sponsors
+![Open Source Justice Foundation](https://i.imgur.com/GAeVJKk.png)
 
 ## Prize Pool 🏆💰
 Get ready to have your minds blown, hackers! 🤯 We're unleashing a jaw-dropping prize pool that'll make your code dance with joy:
@@ -42,6 +46,7 @@ _We can't wait to see you there!_ 🚀
 ## Categories and Prize Pool 🏆
 
 - 🥇 Best Hack Overall: $1500
+- 🚀 Best Nostr Hack: $1000
 - 💎 Best Value4Value Product or App: $250
 - 🔒 Best Hardware Hack: $250
 

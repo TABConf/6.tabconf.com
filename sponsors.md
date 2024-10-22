@@ -132,8 +132,17 @@ Secure your bitcoin with confidence. Unchained Protects your bitcoin with cold s
 
 ## Hackathon Sponsor [🐦](https://x.com/FulgurVentures) [🌐](https://fulgur.ventures/)
 
-<a href="https://fulgur.ventures/"><img align="center" width="400" src="assets/img/sponsors/910x512/fulgur-ventures-logo.png"></a>
+### Premier Sponsor
+
+<a href="https://fulgur.ventures/"><img align="center" width="400" src="https://camo.githubusercontent.com/8bd01d7fcf832e49c1535530f2fbc3fcb9f1fa8b38563dda12f5d3a8b6924d54/68747470733a2f2f692e696d6775722e636f6d2f4a5469336c6c502e706e67"></a>
 <br/>
 Fulgur Venture invests in early stage startups focused on Bitcoin and the Lightning Network
+
+### Platinum Sponsors
+
+<a href="https://opensourcejustice.org/"><img align="center" width="400" src="https://i.imgur.com/GAeVJKk.png"></a>
+<br/>
+Increasing access to justice globally through open-source software and technology.
+
 
 ***
