@@ -8,8 +8,6 @@ TABConf 6 is bringing back the CTB challenge again this year! This scavenger hun
 
 Join in on the fun and make new friends while learning something new. The goal is to be the first to snatch the bitcoin from a specific UTXO.
 
-<img align="center" width="400" src="/assets/img/nogood/512x512/NG_TABConf_Gameboy_Color.png"><br>
-
 🎁 To get started, simply attend TABConf and pick up your challenge coin at the entrance.
 
 🔎 The first clue can be found on the back of the copper coin, or you can opt for the silver challenge coin, available for purchase on the registration page.
