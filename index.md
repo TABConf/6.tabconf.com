@@ -6,6 +6,8 @@ layout: default
 
 #### TABConf's mission is to create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin.
 
+<a target="_blank" href="https://github.com/orgs/TABConf/projects/4" class="button button1 button4">TABConf 6 Schedule</a>
+
 ## TABConf 
 - **T**echnical
 - **A**ccessible 
