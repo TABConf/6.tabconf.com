@@ -1,6 +1,6 @@
 ---
 name: TABConf 6 Hackathon Submission
-about: Submit your Hackathon Submission for TABConf 6!
+about: Submit your Hackathon project for TABConf 6!
 title: ''
 labels: 'TABConf 6 Hackathon Submission'
 assignees: ''
