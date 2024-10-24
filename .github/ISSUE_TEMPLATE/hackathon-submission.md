@@ -1,3 +1,14 @@
+---
+name: TABConf 6 Hackathon Submission
+about: Submit your Hackathon Submission for TABConf 6!
+title: ''
+labels: 'TABConf 6 Hackathon Submission'
+assignees: ''
+
+---
+
+<!-- All software-based projects submitted must be open source and freely available for public use -->
+
 ![ZBD x PlebLab Hackathon Image](https://pbs.twimg.com/media/GW2IHa2WYAE71ca?format=jpg&name=large)
 
 # 🚀 TABConf 6 Hackathon Submission
