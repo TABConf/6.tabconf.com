@@ -22,10 +22,6 @@ assignees: ''
 - [Member 3 Name] - [Role/Expertise]
 - [Member 4 Name] - [Role/Expertise]
 
-### Project Category 🏆
-
-[Select one: Best Hack Overall / Best Value4Value Product or App / Best Taproot Hack]
-
 ### Project Description 📝
 
 [Provide a brief description of your project in 2-3 sentences. What problem does it solve? What makes it unique?]
