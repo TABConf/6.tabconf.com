@@ -48,6 +48,7 @@ make bitcoin magical again with magic internet JPEGs inscribed forever on the Bi
 <a href="https://stakwork.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/Stak-logo.png"></a>
 <br/>
 Hypergrowth shouldn’t hurt. With business process automation that integrates an always-on network of cloudsourced workers, it doesn’t have to.
+
 ***
 
 ## BitDevs Socratic Village Sponsor [🌐](https://lclhost.org/)
@@ -55,6 +56,7 @@ Hypergrowth shouldn’t hurt. With business process automation that integrates a
 <a href="https://lclhost.org//"><img align="center" width="400" src="assets/img/sponsors/910x512/LocalhostResearch-logo.png"></a>
 <br/>
 Bitcoin :) 
+
 ***
 
 ## Grant Sponsor [🐦](https://twitter.com/BitLayerLabs) [🌐](https://bitlayer.org/)
