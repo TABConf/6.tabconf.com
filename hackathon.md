@@ -70,7 +70,7 @@ _We can't wait to see you there!_ 🚀
 
 ### Round 2 - The Semifinalists 🥈
 
-- 🎤 If you advance past round 1, you will be eligible to pitch to the Grand Judges (super shadowy judges FTW)
+- 🎤 If you advance past round 1, you will be eligible to pitch to the Grand Judge (Sanket Kanjalkar)
 - ⏱️ Pitches will be a maximum of 5 minutes
 - 🏆 This is where you will be able to win the top prize and potentially categories as well
 - 🥇 If you win best hack overall, you won't be eligible for another category
