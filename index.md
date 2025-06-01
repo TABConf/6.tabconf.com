@@ -2,6 +2,11 @@
 layout: default
 ---
 
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+# YOU ARE ON THE OLD CONFERENCE PAGE, TABConf 6.
+# If you're looking for TABConf 7 go to [https://7.tabconf.com](https://7.tabconf.com)
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+------------------------------------
 # Mission
 
 #### TABConf's mission is to create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin.
